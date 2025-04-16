@@ -1,8 +1,6 @@
 module github.com/gemalto/helm-image
 
-go 1.23.0
-
-toolchain go1.23.3
+go 1.23
 
 require (
 	github.com/containerd/console v1.0.4

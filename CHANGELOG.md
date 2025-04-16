@@ -1,5 +1,8 @@
 # Release Notes
 
+## Version 1.1.1 - 04/16/2025
+* Updated build dependencies
+
 ## Version 1.1.0 - 04/16/2025
 * Updated build dependencies
 
